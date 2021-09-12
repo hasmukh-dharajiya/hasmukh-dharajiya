@@ -36,7 +36,6 @@ expertise into succeeding._
 
 **Version Control Systems:**
 - Git (GitHub, Bitbucket)
-- 
 ## Contact With Me
-**Linkedin ID:**https://www.linkedin.com/in/hasmukh-dharajiya
-**Email ID:**hasmukhdharajiya001@gmail.com
+- **Linkedin ID:** https://www.linkedin.com/in/hasmukh-dharajiya
+- **Email ID:** hasmukhdharajiya001@gmail.com
