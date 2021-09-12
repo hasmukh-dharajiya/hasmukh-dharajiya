@@ -26,7 +26,7 @@ expertise into succeeding._
 & CSS.
 
 **Backend stack:**
--PHP, Laravel and Lumen.
+- PHP, Laravel and Lumen.
 
 **Additional:**
 - AJAX, REST APIs, JSON, Postman, PhpStorm and JWT.
@@ -36,3 +36,7 @@ expertise into succeeding._
 
 **Version Control Systems:**
 - Git (GitHub, Bitbucket)
+- 
+## Contact With Me
+**Linkedin ID:**https://www.linkedin.com/in/hasmukh-dharajiya
+**Email ID:**hasmukhdharajiya001@gmail.com
