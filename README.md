@@ -19,3 +19,20 @@ expertise into succeeding._
 - MySQL Database Design
 - Git(github,bitbucket)
 - Some Web Hosting Control Panel (cPanel,Plesk)
+
+## TOOLS & TECHNOLOGIES
+**Frontend stack:**
+- Vue.js, Bootstrap, JavaScript, jQuery and of course HTML
+& CSS.
+
+**Backend stack:**
+-PHP, Laravel and Lumen.
+
+**Additional:**
+- AJAX, REST APIs, JSON, Postman, PhpStorm and JWT.
+
+**Database Layer:**
+- MySQL
+
+**Version Control Systems:**
+- Git (GitHub, Bitbucket)
