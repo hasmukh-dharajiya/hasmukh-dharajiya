@@ -1,11 +1,21 @@
 # Hi, I'm Hasmukh 💻
-- 👋 Hi, I’m @hasmukh-dharajiya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+_I am a Freelance Web Developer with industry
+experience building websites and web
+applications. I specialize in PHP and have
+professional experience working with Laravel and
+Vue.js with MySQL. I love new challenges and new
+projects that help me invest all my skills and
+expertise into succeeding._
 
-<!---
-hasmukh-dharajiya/hasmukh-dharajiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## SKILL
+- Laravel + Vue.js based Application
+- AJAX Based web applications
+- build Single Page Application (SPA)
+- Content Management Systems(CMS)
+- E-Commerce, Admin Dashboard, Support Panel etc..
+- Object-oriented Programming
+- MVC Architecture
+- RESTful APIs with Lumen (JWT)
+- MySQL Database Design
+- Git(github,bitbucket)
+- Some Web Hosting Control Panel (cPanel,Plesk)
