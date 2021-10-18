@@ -7,7 +7,7 @@ Vue.js with MySQL. I love new challenges and new
 projects that help me invest all my skills and
 expertise into succeeding._
 
-** 🔭 I’m currently looking for new opportunities. Available for Work.
+**🔭 I’m currently looking for new opportunities. Available for Work.
 
 ## SKILL
 - Laravel + Vue.js based Application
