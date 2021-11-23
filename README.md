@@ -21,17 +21,22 @@ expertise into succeeding._
 - MySQL Database Design
 - Git(github,bitbucket)
 - Some Web Hosting Control Panel (cPanel,Plesk)
+- Laravel Complete Login & Register System
+      (Custom Authentication, Google re-captcha,
+      Email Verification, Reset Password, Change Pass..
+      custom-login-register-forgot password (without
+      Jetstream
 
 ## TOOLS & TECHNOLOGIES
 **Frontend stack:**
-- Vue.js, Bootstrap, JavaScript, jQuery and of course HTML
+- Vue.js, Bootstrap, JavaScript, Vuex, jQuery and of course HTML
 & CSS.
 
 **Backend stack:**
 - PHP, Laravel and Lumen.
 
 **Additional:**
-- AJAX, REST APIs, JSON, Postman, PhpStorm and JWT.
+- AJAX, REST APIs, JSON, Passport(Token), Postman, PhpStorm and JWT.
 
 **Database Layer:**
 - MySQL
