@@ -43,5 +43,4 @@ expertise into succeeding._
 
 **Version Control Systems:**
 - Git (GitHub, Bitbucket)
-## Contact With Me
-- **Email ID:** hasmukhdharajiya001@gmail.com
+
