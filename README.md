@@ -56,3 +56,7 @@ expertise into succeeding._
 8) Build Admin Support Panel.
 9) Convert the current PHP website to Laravel latest version.
 10) Integration to third-party apps.
+
+## Contact With Me
+- **Linkedin ID:** https://in.linkedin.com/in/hasmukh-dharajiya
+- **Email ID:** hasmukhdharajiya001@gmail.com
