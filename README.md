@@ -44,3 +44,15 @@ expertise into succeeding._
 **Version Control Systems:**
 - Git (GitHub, Bitbucket)
 
+**Below are the best services which I will provide to you.
+
+1) I can develop a new web-based application or customize an existing one.
+2) Customize Laravel Application For Laravel V5, V6, V7 to V8 or develop a new Application.
+3) Build Laravel + Vue.js Single Page Application.
+4) Build RestFul APIs as clients need(Laravel v8, Lumen v8).
+5) Customize the UI of the current website maintaining the same database.
+6) Custom authentication in Laravel(Without Jetstream) as clients need.
+7) Build Laravel AJAX-based web application.
+8) Build Admin Support Panel.
+9) Convert the current PHP website to Laravel latest version.
+10) Integration to third-party apps.
