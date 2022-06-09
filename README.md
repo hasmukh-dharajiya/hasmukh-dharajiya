@@ -60,3 +60,4 @@ expertise into succeeding._
 ## Contact With Me
 - **Linkedin ID:** https://in.linkedin.com/in/hasmukh-dharajiya
 - **Email ID:** hasmukhdharajiya001@gmail.com
+- **Skype Id:** live:.cid.36e806bb58cb5431
