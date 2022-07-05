@@ -9,23 +9,26 @@ expertise into succeeding._
 
 **🔭 I’m currently looking for new opportunities. Available for Work.**
 
-## SKILL
-- Laravel + Vue.js based Application
-- AJAX Based web applications
-- build Single Page Application (SPA)
-- Content Management Systems(CMS)
-- E-Commerce, Admin Dashboard, Support Panel etc..
-- Object-oriented Programming
-- MVC Architecture
-- RESTful APIs with Lumen (JWT)
-- MySQL Database Design
-- Git(github,bitbucket)
-- Some Web Hosting Control Panel (cPanel,Plesk)
-- Laravel Complete Login & Register System
-      (Custom Authentication, Google re-captcha,
-      Email Verification, Reset Password, Change Pass..
-      custom-login-register-forgot password (without
-      Jetstream
+## PERSONAL SKILL
+- Understanding of Core PHP
+- Good command over Object Oriented Programming
+- Knowledge of software design patterns and MVC frameworks
+- Strong Proficiency in Laravel ( PHP Framework)
+- Experience with popular Vue.js frameworks ( such as #vuerify, #vuex, #UIs or #SPAs)
+- MySQL - modern database development expertise
+- Advanced Level of MySQL and RESTful API
+- AJAX & jQuery development experience
+- Good knowledge of HTML5, CSS, Javascript, JSON
+- Experience developing a responsive websites
+- Awareness of various frontend and backend optimization techniques
+- Experience working with third-party APIs and web services
+- Git(GitHub, bitbucket)
+- Web Hosting Control Panel (cPanel, Plesk)
+- Build Single Page Application (SPA)
+- E-Commerce, Admin Dashboard, Support Panel, etc.
+- Ability to adapt and pick up new techniques and technology
+- Ability to prioritize and multitask
+
 
 ## TOOLS & TECHNOLOGIES
 **Frontend stack:**
@@ -44,7 +47,7 @@ expertise into succeeding._
 **Version Control Systems:**
 - Git (GitHub, Bitbucket)
 
-**Below are the best services which I will provide to you.**
+## Below are the best services which I will provide to you.**
 
 1) I can develop a new web-based application or customize an existing one.
 2) Customize Laravel Application For Laravel V5, V6, V7 to V8 or develop a new Application.
